@@ -1,4 +1,4 @@
-### Simple example of Testing Framework using Javascript Jest and Axios
+### Simple example of API Testing Framework using Javascript, Jest, Axios.
 
 #### Clone project:
 ```
@@ -23,4 +23,4 @@ or
 ```
 npm run test
 ``` 
-
+* Please give a "star" if it helped you.

@@ -23,8 +23,4 @@ or
 ```
 npm run test
 ``` 
-and Jest will print this message:
-```
-PASS  ./sum.test.js
-✓ adds 1 + 2 to equal 3 (5ms)
-```
+
